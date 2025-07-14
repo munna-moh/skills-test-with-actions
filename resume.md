@@ -26,3 +26,5 @@ Developed and maintained various conference talks, online training, and in-perso
 ### Leadership
 
 Managed multiple _asynchronous teams_ in the development, maintenance, and release of various web applications and websites.
+
+[![Step 5, Merge your pull request](https://github.com/munna-moh/skills-test-with-actions/actions/workflows/5-merge-your-pull-request.yml/badge.svg)](https://github.com/munna-moh/skills-test-with-actions/actions/workflows/5-merge-your-pull-request.yml)
